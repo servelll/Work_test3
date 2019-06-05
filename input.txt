@@ -1,6 +1,0 @@
-﻿11231;6;Russia
-11232;1;Ukraine
-11232;44;Ukraine
-1122;1;Ukraine
-144a;1;Kazakhstan
-2444;Mongoly
